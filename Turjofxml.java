@@ -17,7 +17,7 @@ public class Turjofxml extends Application {
         
         stage.setScene(scene);
         
-        stage.show();
+        
     }
 
 
